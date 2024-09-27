@@ -1,6 +1,5 @@
 # python_assignment
 
-# python_assignment
 
 Assignment 1
 https://www.hackerrank.com/challenges/finding-the-percentage/problem
