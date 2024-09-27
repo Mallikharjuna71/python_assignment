@@ -5,4 +5,4 @@ class Test(unittest.TestCase):
         list_of_students = [[92, 2, 'calum', 1], [82, 5, 'scott', 2], [94, 2, 'jason', 3], [55, 8, 'glenn', 4],
                             [82, 2, 'fergus', 5]]
 
-        self.assertEqual(named_tuples_avg([[92,2,'calum',1],[82,5,'scott',2],[94,2,'jason',3],[55,8,'glenn',4],[82,2,'fergus',5]]),81.0)
+        self.assertEqual(named_tuples_avg(list_of_students),81.0)
