@@ -1,3 +1,4 @@
+
 def arrange_blocks(l):
     if l == sorted(l):
         return 'Yes'
