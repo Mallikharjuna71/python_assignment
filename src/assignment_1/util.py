@@ -1,5 +1,4 @@
 # finding average
-
 def calculating_percentage():
     student_marks = {
         'Krishna':[67, 68, 69],
