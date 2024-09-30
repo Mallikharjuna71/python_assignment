@@ -1,3 +1,4 @@
+
 def mutate_string():
     string = input('enter a string: ')
     position = int(input('index where you want to insert: '))

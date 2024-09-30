@@ -1,5 +1,4 @@
 import unittest
-
 from python_assignment.src.assignment_3.util import mutate_string
 
 class Test(unittest.TestCase):
