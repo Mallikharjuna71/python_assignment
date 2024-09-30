@@ -1,5 +1,4 @@
 import unittest
-import numpy
 from numpy import array
 from python_assignment.src.assignment_10.util import floor_ceil_rint
 class Test(unittest.TestCase):
